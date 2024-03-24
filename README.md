@@ -6,3 +6,4 @@ LSTM,
 GRU,
 Bidirectional RNNs
 etc.
+In skimlit.ipynb we are making a project which can give headings to long paragraphs.
